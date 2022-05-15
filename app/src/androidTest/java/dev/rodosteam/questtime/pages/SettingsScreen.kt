@@ -1,5 +1,6 @@
-package dev.rodosteam.questtime
+package dev.rodosteam.questtime.pages
 
+import dev.rodosteam.questtime.R
 import io.github.kakaocup.kakao.dialog.KAlertDialog
 import io.github.kakaocup.kakao.screen.Screen
 import io.github.kakaocup.kakao.text.KButton
