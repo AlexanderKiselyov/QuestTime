@@ -2,6 +2,8 @@ package dev.rodosteam.questtime
 
 import androidx.test.core.app.launchActivity
 import com.kaspersky.kaspresso.testcases.api.testcase.TestCase
+import dev.rodosteam.questtime.pageObjects.NavigationPanel
+import dev.rodosteam.questtime.pages.SettingsScreen
 import dev.rodosteam.questtime.screen.common.MainActivity
 import dev.rodosteam.questtime.utils.Languages
 import org.junit.Test
